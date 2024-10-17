@@ -9,16 +9,14 @@ DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 
-# 域名关键字匹配-游戏
+# 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
-DOMAIN-KEYWORD,25wanwan
-DOMAIN-KEYWORD,cdqcwl
-DOMAIN-KEYWORD,eset
-DOMAIN-KEYWORD,hgame
-DOMAIN-KEYWORD,hjygame
 
-
+# 游戏
+DOMAIN-SUFFIX,hgame.com
+DOMAIN-SUFFIX,25wanwan.com
+DOMAIN-SUFFIX,cdqcwl.com
 
 
 # 360
